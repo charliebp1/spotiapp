@@ -10,7 +10,7 @@ import { map } from 'rxjs/operators';
 })
 export class SpotifyService implements OnInit{
 
-  url: string = 'http://localhost:3000/spotify/02cc28d7d1c943ebb57d2a3665fc7eca/f7c9ea1478ce4258b1c65d8953cc1cd2';
+  url: string = 'http://localhost:3000/spotify/d6b55734aa3f4b49af89ae8023b6c69e/4659ca881ead4eed81c45197f071db34';
 
   token: string = 'BQC6GUKArE73zpcClprSo_mQO5C5xFUg0C9nre6eg97yTSeUIDqD-A5KVXNWvmVrrGPVmv2NLZzi9fmQ2ic';
   
